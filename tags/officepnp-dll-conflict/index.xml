@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>officepnp dll conflict on SharePoint Thoughts</title>
+    <link>https://ajeshkakkoprath.com/tags/officepnp-dll-conflict/</link>
+    <description>Recent content in officepnp dll conflict on SharePoint Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jun 2019 13:45:29 +1000</lastBuildDate>
+    
+	<atom:link href="https://ajeshkakkoprath.com/tags/officepnp-dll-conflict/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Could not load file or assembly.... OfficePnP Nuget package conflict issues</title>
+      <link>https://ajeshkakkoprath.com/could-not-load-file-or-assembly/</link>
+      <pubDate>Thu, 27 Jun 2019 13:45:29 +1000</pubDate>
+      
+      <guid>https://ajeshkakkoprath.com/could-not-load-file-or-assembly/</guid>
+      <description>If you are using OfficePnP or SharePoint PnP nuget packages in your solution, often you end up with DLL conflicts and may throw error &amp;#8220;Could not load file or assembly&amp;#8230;&amp;#8221; I have faced this many times and was struggling to fix this. This article is about how to solve the dll conflicts while adding OfficePnP nuget to your solution.
+What is the problem?
+Most of the cases, we may want to utilize the OfficePnP solution customize our SharePoint sites.</description>
+    </item>
+    
+  </channel>
+</rss>

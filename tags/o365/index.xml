@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>o365 on SharePoint Thoughts</title>
+    <link>https://ajeshkakkoprath.com/tags/o365/</link>
+    <description>Recent content in o365 on SharePoint Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Dec 2017 17:57:16 +1000</lastBuildDate>
+    
+	<atom:link href="https://ajeshkakkoprath.com/tags/o365/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Office 365 Management Activity API - C#</title>
+      <link>https://ajeshkakkoprath.com/o365-compliance-api-c/</link>
+      <pubDate>Fri, 08 Dec 2017 17:57:16 +1000</pubDate>
+      
+      <guid>https://ajeshkakkoprath.com/o365-compliance-api-c/</guid>
+      <description>Here is the code sample to connect to office 365 management API. Article explains the Azure AD configuration, OAuth authentication and the compliance api usage with HttpClient.
+Before we start with, we need to configure the Azure AD app to give necessary permission for o365 Compliace API to access the data
+Follow the MSDN article to configure the Azure AD App.
+Execute the following 4 steps from the article
+We will be using the HTTP message handler that uses OAuth authentication through ADAL</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on SharePoint Thoughts</title>
+    <link>https://ajeshkakkoprath.com/categories/</link>
+    <description>Recent content in Categories on SharePoint Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jun 2019 13:45:29 +1000</lastBuildDate>
+    
+	<atom:link href="https://ajeshkakkoprath.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dll conflict</title>
+      <link>https://ajeshkakkoprath.com/categories/dll-conflict/</link>
+      <pubDate>Thu, 27 Jun 2019 13:45:29 +1000</pubDate>
+      
+      <guid>https://ajeshkakkoprath.com/categories/dll-conflict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hub sites</title>
+      <link>https://ajeshkakkoprath.com/categories/hub-sites/</link>
+      <pubDate>Fri, 30 Mar 2018 12:59:34 +1000</pubDate>
+      
+      <guid>https://ajeshkakkoprath.com/categories/hub-sites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern page</title>
+      <link>https://ajeshkakkoprath.com/categories/modern-page/</link>
+      <pubDate>Fri, 30 Mar 2018 12:59:34 +1000</pubDate>
+      
+      <guid>https://ajeshkakkoprath.com/categories/modern-page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SharePoint Online, Modern Team, Modern Communication Site</title>
+      <link>https://ajeshkakkoprath.com/categories/sharepoint-online-modern-team-modern-communication-site/</link>
+      <pubDate>Fri, 30 Mar 2018 12:59:34 +1000</pubDate>
+      
+      <guid>https://ajeshkakkoprath.com/categories/sharepoint-online-modern-team-modern-communication-site/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hub sites on SharePoint Thoughts</title>
+    <link>https://ajeshkakkoprath.com/tags/hub-sites/</link>
+    <description>Recent content in Hub sites on SharePoint Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Mar 2018 12:59:34 +1000</lastBuildDate>
+    
+	<atom:link href="https://ajeshkakkoprath.com/tags/hub-sites/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Configure SharePoint Hub Sites</title>
+      <link>https://ajeshkakkoprath.com/configure-sharepoint-hub-sites/</link>
+      <pubDate>Fri, 30 Mar 2018 12:59:34 +1000</pubDate>
+      
+      <guid>https://ajeshkakkoprath.com/configure-sharepoint-hub-sites/</guid>
+      <description>The most awaiting feature &amp;ldquo;Hub Sites&amp;rdquo; is released now. Hub sites allow the related site content to roll up to the Hub site&amp;rsquo;s home page, like News. There is no specific template for Hub sites and you can convert your existing modern Team site or Communication site to a Hub site by running PowerShell script. You can have up to 50 Hub sites in your tenant as per MS article.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSOM on SharePoint Thoughts</title>
+    <link>https://ajeshkakkoprath.com/tags/csom/</link>
+    <description>Recent content in CSOM on SharePoint Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Nov 2017 05:06:57 +1000</lastBuildDate>
+    
+	<atom:link href="https://ajeshkakkoprath.com/tags/csom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Get Modern Team and Communication sites - SharePoint Online - CSOM</title>
+      <link>https://ajeshkakkoprath.com/first-blog-post/</link>
+      <pubDate>Tue, 07 Nov 2017 05:06:57 +1000</pubDate>
+      
+      <guid>https://ajeshkakkoprath.com/first-blog-post/</guid>
+      <description>Here is the quick sample code to extract all the site collections from SharePoint Online tenant, including the classic,modern team sites and communication sites.
+This solution is based on Microsoft PnP . Follow the steps below
+ Create a console application and then add the Nuget package &amp;#8216;SharePointPnPCoreOnline&amp;#8217;   Add the references  using Microsoft.Online.SharePoint.TenantAdministration;
+using Microsoft.SharePoint.Client;
+ Following lines of code will return all the sites including Modern Team and Communication sites.</description>
+    </item>
+    
+  </channel>
+</rss>

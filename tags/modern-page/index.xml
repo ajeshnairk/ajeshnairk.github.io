@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modern page on SharePoint Thoughts</title>
+    <link>https://ajeshkakkoprath.com/tags/modern-page/</link>
+    <description>Recent content in Modern page on SharePoint Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jan 2018 11:57:19 +1000</lastBuildDate>
+    
+	<atom:link href="https://ajeshkakkoprath.com/tags/modern-page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Replace webpart on a SharePoint Modern page</title>
+      <link>https://ajeshkakkoprath.com/replace-webpart-on-a-sharepoint-modern-page/</link>
+      <pubDate>Sun, 28 Jan 2018 11:57:19 +1000</pubDate>
+      
+      <guid>https://ajeshkakkoprath.com/replace-webpart-on-a-sharepoint-modern-page/</guid>
+      <description>There can be scenarios where webpart on a page should be replaced with an updated one. For eg:- Recently Microsoft had released an updated Yammber webpart and the webpart already placed on a page will not be disrupted or changed. In this case it is difficult to replace it manaually.
+Here is the starting point for this task. Below sample code shows how to replace the Yammer webpart progrmatically. It reads the properties of the existing webpart and replaces it with the updated one and then saves the properties back to the newly added webpart.</description>
+    </item>
+    
+  </channel>
+</rss>
